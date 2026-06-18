@@ -1,0 +1,15 @@
+# 音楽ファイル（サイズが大きいため除外）
+*.flac
+*.mp3
+*.m4a
+*.wav
+*.aac
+*.ogg
+
+# システムファイル
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude Code
+.claude/
